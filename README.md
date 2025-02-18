@@ -29,7 +29,7 @@ usalo segun tu equipo
 
 4 - d
 
-![Iniciando RUFUS 3](./img/medio_instalacion/creando_iso_rufus1.png)
+![Iniciando RUFUS 3](./img/medio_instalacion/creando_iso_rufus3.png)
 
 **Inconvenicia**
 <br>
