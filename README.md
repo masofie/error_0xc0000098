@@ -21,13 +21,13 @@ el sistema operativo desde el principio .
 <br>
 
 3 - Seleccionamos el formato **GPT** (para equipos actuales) o **MBR** (para equipos antiguos)
-usalo segun tu equipo 
+usalo segun tu equipo y le hacemos clic en el botón de empezar .
 
 ![Iniciando RUFUS 2](./img/medio_instalacion/creando_iso_rufus2.png)
 
 <br>
 
-4 - d
+4 - Una vez empezando la instalación nos muestra un mensaje de advertencia que nos dice que se borran todos los datos de nuestro USB y solo quedara en medio de isntalación .
 
 ![Iniciando RUFUS 3](./img/medio_instalacion/creando_iso_rufus3.png)
 
