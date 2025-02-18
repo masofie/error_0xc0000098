@@ -1,5 +1,6 @@
 # error_0xc0000098
-Error de Actulizaciones de Windows 
+
+## Error de Actulizaciones de Windows 
 
 
 1. **Solición Rápida**
