@@ -27,7 +27,7 @@ usalo segun tu equipo y le hacemos clic en el botón de empezar .
 
 <br>
 
-4 - Una vez empezando la instalación nos muestra un mensaje de advertencia que nos dice que se borran todos los datos de nuestro USB y solo quedara en medio de isntalación .
+4 - Una vez empezando la instalación nos muestra un mensaje de advertencia que nos dice que se borran todos los datos de nuestro **USB** y solo quedara en medio de isntalación .
 
 ![Iniciando RUFUS 3](./img/medio_instalacion/creando_iso_rufus3.png)
 
