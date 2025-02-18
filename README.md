@@ -23,8 +23,13 @@ el sistema operativo desde el principio .
 3 - Seleccionamos el formato **GPT** (para equipos actuales) o **MBR** (para equipos antiguos)
 usalo segun tu equipo 
 
-
 ![Iniciando RUFUS 2](./img/medio_instalacion/creando_iso_rufus2.png)
+
+<br>
+
+4 - d
+
+![Iniciando RUFUS 3](./img/medio_instalacion/creando_iso_rufus1.png)
 
 **Inconvenicia**
 <br>
