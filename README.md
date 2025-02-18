@@ -22,7 +22,7 @@ el sistema operativo desde el principio .
 
 3 - 
 
-![Iniciando RUFUS 2](./img/medio_instalacion/creando_iso_rufus1.png)
+![Iniciando RUFUS 2](./img/medio_instalacion/creando_iso_rufus2.png)
 
 **Inconvenicia**
 <br>
