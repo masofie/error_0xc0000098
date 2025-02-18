@@ -33,7 +33,7 @@ usalo segun tu equipo y le hacemos clic en el botón de empezar .
 
 <br>
 
-5 - 
+5 - Cuando termine hacemos clic en **CERRAR** porque si hacemos clic en empezar , nos empezara la instalación de nuevo , ojo con eso .
 
 ![Iniciando RUFUS 4](./img/medio_instalacion/creando_iso_rufus4.png)
 
