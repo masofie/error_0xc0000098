@@ -9,9 +9,14 @@
 Arranca con un medio de instalación (USB/DVD) de Windows . Y ahí instala 
 el sistema operativo desde el principio .
 
-Lo primero que tenemos que hacer es descargar e instalar los paquetes necesarios para la recuperación del sistema , lo que vamos ha utilizar es **RUFUS** y una **ISO** de windows .
+1 - Lo primero que tenemos que hacer es descargar e instalar los paquetes necesarios para la recuperación del sistema , lo que vamos ha utilizar es **RUFUS** y una **ISO** de windows .
 
 ![Descarga e instalacion de paquetes](./img/medio_instalacion/instalacion_de_paquetes.png)
+<br>
+
+2 - Lugo iniciamos el **RUFUS** , selecioanamos la iso que hemos descargado y le damos formato 
+
+![Iniciando RUFUS 1](./img/medio_instalacion/creando_iso_rufus1.png)
 
 <br>
 
