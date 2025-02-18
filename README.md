@@ -20,7 +20,9 @@ el sistema operativo desde el principio .
 
 <br>
 
-3 - 
+3 - Seleccionamos el formato **GPT** (para equipos actuales) o **MBR** (para equipos antiguos)
+usalo segun tu equipo 
+
 
 ![Iniciando RUFUS 2](./img/medio_instalacion/creando_iso_rufus2.png)
 
