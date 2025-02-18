@@ -20,6 +20,10 @@ el sistema operativo desde el principio .
 
 <br>
 
+3 - 
+
+![Iniciando RUFUS 2](./img/medio_instalacion/creando_iso_rufus1.png)
+
 **Inconvenicia**
 <br>
 si haces esto vas ha perder todos los datos que tienes ahí y se borran todas las
