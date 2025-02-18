@@ -14,7 +14,7 @@ el sistema operativo desde el principio .
 ![Descarga e instalacion de paquetes](./img/medio_instalacion/instalacion_de_paquetes.png)
 <br>
 
-2 - Lugo iniciamos el **RUFUS** , selecioanamos la iso que hemos descargado y le damos formato 
+2 - Luego iniciamos el **RUFUS** , selecioanamos la iso que hemos descargado y le damos formato 
 
 ![Iniciando RUFUS 1](./img/medio_instalacion/creando_iso_rufus1.png)
 
