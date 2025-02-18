@@ -31,6 +31,12 @@ usalo segun tu equipo y le hacemos clic en el botón de empezar .
 
 ![Iniciando RUFUS 3](./img/medio_instalacion/creando_iso_rufus3.png)
 
+<br>
+
+5 - 
+
+![Iniciando RUFUS 4](./img/medio_instalacion/creando_iso_rufus4.png)
+
 **Inconvenicia**
 <br>
 si haces esto vas ha perder todos los datos que tienes ahí y se borran todas las
