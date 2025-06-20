@@ -1,7 +1,7 @@
 # 🪟🚫 error_0xc0000098
 <br>
 
-## 🚫⚠️ Error de Actulizaciones de Windows 
+**🚫⚠️ Error de Actulizaciones de Windows** 
 <br>
 
 >En este repositorio vamos a ver cómo actuar frente al **error 0xc0000098** , uno de los problemas más comunes en Windows.
