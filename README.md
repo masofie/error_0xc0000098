@@ -38,7 +38,7 @@ el sistema operativo desde el principio .
 <br>
 
 
-3 - Damos formato **``gpt``** (para equipos actuales) o **``mbr``** (para equipos antiguos)
+3 - Damos formato *``gpt``* (para equipos actuales) o *``mbr``* (para equipos antiguos)
 usalo segun tu equipo y empezamos .
 
 ![Iniciando RUFUS 2](./img/medio_instalacion/creando_iso_rufus2.png)
