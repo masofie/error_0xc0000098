@@ -1,7 +1,14 @@
 # 🪟🚫 error_0xc0000098
 <br>
 
-**🚫⚠️ Error de Actulizaciones de Windows** 
+**📑 Indice**
+- [🪟🚫 error\_0xc0000098](#-error_0xc0000098)
+- [**🚫⚠️ Error de Actulizaciones de Windows**](#️-error-de-actulizaciones-de-windows)
+  - [1. 🚀 Medio de Instalación *``RUFUS``* (Solición Rápida)](#1--medio-de-instalación-rufus-solición-rápida)
+
+<br>
+
+# **🚫⚠️ Error de Actulizaciones de Windows** 
 <br>
 
 En este repositorio vamos a ver cómo actuar frente al *``error 0xc0000098``* , uno de los problemas más comunes en Windows.
@@ -11,7 +18,7 @@ En este repositorio vamos a ver cómo actuar frente al *``error 0xc0000098``* , 
 
 <br>
 
-## 1. 🚀 Solición Rápida
+## 1. 🚀 Medio de Instalación *``RUFUS``* (Solición Rápida)
 <br>
 
 Arranca con un medio de instalación *``(USB/DVD)``* de Windows . Y ahí instala 
